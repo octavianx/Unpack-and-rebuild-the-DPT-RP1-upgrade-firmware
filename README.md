@@ -45,7 +45,8 @@ The “FwUpdater” folder contains the resources.
 
 So,the problem now, is how to rebuild the resources back into a .pkg?
 
-Welcome to discuss in the issue, or in mobileread forums:  
+Welcome to discuss in the issue, or in mobileread forums:    
+https://www.mobileread.com/forums/showthread.php?t=294134
 
 My email: hadesome1@gmail.com  
 My skype: https://join.skype.com/invite/JPNMlTtXodmB
